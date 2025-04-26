@@ -1,6 +1,6 @@
 # GRAPH-BASED-FAKE-NEWS-DETECTION-IN-SOCIAL-NETWORKS
 
-## 📚 Project Overview
+## Project Overview
 
 This project was conducted as part of the MLNS Final Project.  
 It aims to **detect rumours in Twitter conversations** by modeling discussions as **graph-structured data**.  
@@ -25,7 +25,7 @@ We systematically explore **data preprocessing**, **feature engineering**, **mod
 
 ---
 
-## 📝 Dataset
+## Dataset
 
 The dataset used is the **PHEME Rumour Detection Dataset**, which consists of tree-structured Twitter conversations annotated as rumours or non-rumours.
 
@@ -34,7 +34,7 @@ The dataset used is the **PHEME Rumour Detection Dataset**, which consists of tr
 
 ---
 
-## 🧐 Methodology
+## Methodology
 
 - **Machine Learning (ML) Pipeline**:
   - Feature extraction (tweet metadata, text embeddings, graph statistics).
@@ -50,7 +50,7 @@ The dataset used is the **PHEME Rumour Detection Dataset**, which consists of tr
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the repository**:
 
@@ -74,7 +74,7 @@ The dataset used is the **PHEME Rumour Detection Dataset**, which consists of tr
 
 ---
 
-## ✨ Acknowledgements
+## Acknowledgements
 
 - **PHEME Dataset**: [Zubiaga et al., 2016]
 - **Optuna** for Bayesian optimization [Akiba et al., 2019]
@@ -82,12 +82,7 @@ The dataset used is the **PHEME Rumour Detection Dataset**, which consists of tr
 
 ---
 
-## 💑 License
+## License
 
 This project is for educational purposes only as part of the MLNS course project.
-
----
-
-# 🔥 Quick Note
-If you find the project interesting, feel free to star ⭐ the repository!
 
