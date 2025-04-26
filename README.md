@@ -1,4 +1,4 @@
-# GRAPH-BASED-FAKE-NEWS-DETECTION-IN-SOCIAL-NETWORKS
+# Graph Based Fake News Detection in Social Networks 
 
 ## Project Overview
 
